@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(./img/23b4f1db6f872b0781923eb35359d11f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#form {
+    margin: auto;
+    margin-top: 150px;
+    border: none;
+    text-align: center;
+    width: 500px;
+    height: 350px;
+    box-shadow: 2px 2px 20px gray;
+}
+
+#form:hover {
+    box-shadow: 2px 2px 20px yellow;
+}
+
+#name {
+    margin-top: 100px;
+    height: 30px;
+}
+
+#body {
+    margin-top: 30px;
+    height: 30px;
+}
+
+#results{
+    color: white;
+    font-size: 30px;
+}
